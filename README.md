@@ -2,8 +2,8 @@
 
 ## Searching
 
-> Linear Search (***[Java](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.java)*** or ***[C](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.c)***)
-> Binary Search 
+#### Linear Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.c)***)
+#### Binary Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.c)***)
 
 
 ## Sorting
