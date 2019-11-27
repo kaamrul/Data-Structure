@@ -1,10 +1,10 @@
 # Data Structure
 
 ## Searching
-```
+
 > Linear Search (***[Java](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.java)*** or ***[C](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.c)***)
 > Binary Search 
-```
+
 
 ## Sorting
 ```
