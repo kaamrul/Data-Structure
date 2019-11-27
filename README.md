@@ -2,7 +2,7 @@
 
 ## Searching
 
-#### > Linear Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.c)***)
+### 1. Linear Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.c)***)
 
 #### Algorithm
 ```
@@ -15,7 +15,7 @@ Step 6: Print Item Found at Location arr[i]
 Step 7: Print Item not Found
 Step 8: Exit
 ```
-#### > Binary Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.c)***)
+### 2. Binary Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.c)***)
 
 #### Algorithm
 ```
