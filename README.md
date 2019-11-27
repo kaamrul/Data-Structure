@@ -7,7 +7,7 @@
 ```
 
 ## Sorting
-```
+
 > Bubble Sort
 > Insertion Sort
 > Selection Sort
@@ -23,4 +23,3 @@
 > ~~~Cocktail Sort~~~
 > ~~~Cycle Sort~~~
 > ~~~Tim Sort~~~
-```
