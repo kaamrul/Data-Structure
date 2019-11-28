@@ -34,6 +34,19 @@ Step 5: Exit
 
 ### 1. Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSort.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSort.c)***) && Optimize Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSortOptimize.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSortOptimize.c)***)
 
+#### Algorithm
+```
+Step 1: Repeat steps 2 and 3 for i = 0 to n-1  // n, max size of an array
+Step 2: Set j = 0 to n-1-i
+Step 3: if Array[j] > Array[j+1]
+		swap Array[j] and Array[j+1]
+
+		temp = Array[j]
+		Array[j] = Array[j+1]
+		Array[j+1] = temp
+
+Step 4: Exit
+```
 ```
  2. Insertion Sort
  3. Selection Sort
