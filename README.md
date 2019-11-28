@@ -31,8 +31,10 @@ Step 5: Exit
 ```
 
 ## Sorting
+
+### Bubble Sort
+
 ```
-> Bubble Sort
 > Insertion Sort
 > Selection Sort
 > Merge Sort
