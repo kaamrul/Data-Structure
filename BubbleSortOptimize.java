@@ -1,6 +1,5 @@
 // Optimized Bubble Sort Algorithm for time complexity
 public class BubbleSort {
-
 	public static void main(String[] args) {
 		int i, j, flag, temp = 0;
 		int[] arr = {15,16,6,8,5};
@@ -18,7 +17,7 @@ public class BubbleSort {
 				}
 			}
 			// if value of flag is zero after all the iterations of inner loop
-	        // then break out
+	       		// then break out
 			if(flag == 0)
 				break;
 		}
