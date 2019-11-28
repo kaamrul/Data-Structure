@@ -2,7 +2,7 @@
 
 ## Searching
 
-### 1. Linear Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/LinearSearch.c)***)
+### 1. Linear Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/Searching/LinearSearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/Searching/LinearSearch.c)***)
 
 #### Algorithm
 ```
@@ -15,7 +15,7 @@ Step 6: Print Item Found at Location arr[i]
 Step 7: Print Item not Found
 Step 8: Exit
 ```
-### 2. Binary Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BinarySearch.c)***)
+### 2. Binary Search (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/Searching/BinarySearch.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/Searching/BinarySearch.c)***)
 
 #### Algorithm
 ```
@@ -32,7 +32,7 @@ Step 5: Exit
 
 ## Sorting
 
-### 1. Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSort.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSort.c)***) && Optimize Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSortOptimize.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSortOptimize.c)***)
+### 1. Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSort.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSort.c)***) && Optimize Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSortOptimize.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/Sorting/BubbleSortOptimize.c)***)
 
 ```
  2. Insertion Sort
