@@ -22,11 +22,11 @@ Step 8: Exit
 Step 1: Set low = 0, high = n-1  // n, max size of an array
 Step 2: mid = (low + high) / 2
 Step 3: if item = array[mid]
-	return mid;
+		return mid;
 Step 4: if item > array[mid]
-	low = mid + 1
-else
-	high = mid - 1
+		low = mid + 1
+	else
+		high = mid - 1
 Step 5: Exit
 ```
 
