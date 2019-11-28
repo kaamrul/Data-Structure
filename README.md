@@ -32,7 +32,7 @@ Step 5: Exit
 
 ## Sorting
 
-### 1. Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSort.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSort.c)***)
+### 1. Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSort.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSort.c)***) && Optimize Bubble Sort (***[Java Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSortOptimize.java)*** or ***[C Coding](https://github.com/kaamrul/Data-Structure/blob/master/BubbleSortOptimize.c)***)
 
 ```
  2. Insertion Sort
