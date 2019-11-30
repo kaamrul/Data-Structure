@@ -47,7 +47,7 @@ Step 3: if Array[j] > Array[j+1]
 
 Step 4: Exit
 ```
-### 2. Insertion Sort
+### 2. Insertion Sort (***[Java Coding]*** or ***[C Coding]***)
 ```
  3. Selection Sort
  4. Merge Sort
